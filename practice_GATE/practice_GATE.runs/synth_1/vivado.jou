@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Oct  9 23:32:10 2021
+# Process ID: 3512
+# Current directory: C:/Xilinx/workspace/study/practice_GATE/practice_GATE.runs/synth_1
+# Command line: vivado.exe -log program_not.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source program_not.tcl
+# Log file: C:/Xilinx/workspace/study/practice_GATE/practice_GATE.runs/synth_1/program_not.vds
+# Journal file: C:/Xilinx/workspace/study/practice_GATE/practice_GATE.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source program_not.tcl -notrace
